@@ -1,2 +1,2 @@
 # Trabalho_Final_Prog1
-trabalho usando java, springBoot maven
+Trabalho final de programção usando java, mysql com banco de dados
